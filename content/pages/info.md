@@ -223,7 +223,7 @@ sections:
       - type: Label
         label: Pancakes
       - type: Label
-        label: C++
+        label: ''
       - type: Label
         label: React
   - type: DividerSection
