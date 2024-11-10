@@ -24,7 +24,7 @@ sections:
       opportunities to grow as a game developer!**
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/passportSize.jpg
       altText: Hero image
     styles:
       self:
