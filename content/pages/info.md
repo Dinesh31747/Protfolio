@@ -213,7 +213,7 @@ sections:
       - type: Label
         label: Unity
       - type: Label
-        label: React
+        label: Blender
       - type: Label
         label: Microsoft Office
       - type: Label
