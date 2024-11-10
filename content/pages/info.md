@@ -13,11 +13,15 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## **Hey! I’m a student developer diving into the world of game
+      development with Unity. Currently honing my skills, I’m ready to bring my
+      passion for games to a hands-on internship.**
+
+
+      **Outside of coding, you’ll find me at the gym or catching up on my
+      favorite anime series. Looking forward to connecting and exploring
+      opportunities to grow as a game developer!**
     media:
       type: ImageBlock
       url: /images/about.jpg
