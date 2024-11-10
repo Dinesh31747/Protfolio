@@ -215,8 +215,6 @@ sections:
       - type: Label
         label: Blender
       - type: Label
-        label: Netlify
-      - type: Label
         label: ''
       - type: Label
         label: React
