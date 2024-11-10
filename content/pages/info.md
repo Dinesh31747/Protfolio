@@ -215,8 +215,6 @@ sections:
       - type: Label
         label: Blender
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Netlify
       - type: Label
         label: Pancakes
