@@ -218,6 +218,9 @@ sections:
         label: ''
       - type: Label
         label: React
+      - type: Label
+        label: Adaptive Behaviour
+        url: ''
   - type: DividerSection
     styles:
       self:
