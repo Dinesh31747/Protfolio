@@ -225,7 +225,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Reaci
+        label: React
   - type: DividerSection
     styles:
       self:
