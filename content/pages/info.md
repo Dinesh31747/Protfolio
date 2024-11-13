@@ -13,14 +13,18 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## **Hey! I’m a student developer diving into the world of game
+      development with Unity. Currently honing my skills, I’m ready to bring my
+      passion for games to a hands-on internship.**
+
+
+      **Outside of coding, you’ll find me at the gym or catching up on my
+      favorite anime series. Looking forward to connecting and exploring
+      opportunities to grow as a game developer!**
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/passportSize.jpg
       altText: Hero image
     styles:
       self:
@@ -207,21 +211,19 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Unity
+      - type: Label
+        label: Blender
+      - type: Label
+        label: ''
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: Adaptive Behaviour
+        url: ''
       - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
+        label: C#
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -239,7 +241,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [dineshsuresh21@gmail.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
